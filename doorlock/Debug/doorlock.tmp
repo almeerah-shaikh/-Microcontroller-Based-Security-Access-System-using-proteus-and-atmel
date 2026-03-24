@@ -1,0 +1,68 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega32"</DEVICE>
+ <WORKING_DIR>C:\Users\shaik\OneDrive\Desktop\mpi labs\lab3tasks\doorlock\doorlock\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\shaik\OneDrive\Desktop\mpi labs\lab3tasks\doorlock\doorlock\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m32def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\shaik\OneDrive\Desktop\mpi labs\lab3tasks\doorlock\doorlock\Debug\doorlock.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>doorlock.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>doorlock.map</FILE>
+  <FILE>doorlock.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <INPUT_BUF><FILE>C:\Users\shaik\OneDrive\Desktop\mpi labs\lab3tasks\doorlock\doorlock\main.asm</FILE><LINE>32</LINE></INPUT_BUF>
+  <MAIN><FILE>C:\Users\shaik\OneDrive\Desktop\mpi labs\lab3tasks\doorlock\doorlock\main.asm</FILE><LINE>41</LINE></MAIN>
+  <DELAY_2ms><FILE>C:\Users\shaik\OneDrive\Desktop\mpi labs\lab3tasks\doorlock\doorlock\main.asm</FILE><LINE>339</LINE></DELAY_2ms>
+  <CMNDWRT><FILE>C:\Users\shaik\OneDrive\Desktop\mpi labs\lab3tasks\doorlock\doorlock\main.asm</FILE><LINE>294</LINE></CMNDWRT>
+  <SYSTEM_RESET><FILE>C:\Users\shaik\OneDrive\Desktop\mpi labs\lab3tasks\doorlock\doorlock\main.asm</FILE><LINE>77</LINE></SYSTEM_RESET>
+  <MSG_ENTER><FILE>C:\Users\shaik\OneDrive\Desktop\mpi labs\lab3tasks\doorlock\doorlock\main.asm</FILE><LINE>389</LINE></MSG_ENTER>
+  <SEND_STRING><FILE>C:\Users\shaik\OneDrive\Desktop\mpi labs\lab3tasks\doorlock\doorlock\main.asm</FILE><LINE>315</LINE></SEND_STRING>
+  <GROUND_ALL_ROWS><FILE>C:\Users\shaik\OneDrive\Desktop\mpi labs\lab3tasks\doorlock\doorlock\main.asm</FILE><LINE>97</LINE></GROUND_ALL_ROWS>
+  <WAIT_FOR_RELEASE><FILE>C:\Users\shaik\OneDrive\Desktop\mpi labs\lab3tasks\doorlock\doorlock\main.asm</FILE><LINE>101</LINE></WAIT_FOR_RELEASE>
+  <WAIT_FOR_KEY><FILE>C:\Users\shaik\OneDrive\Desktop\mpi labs\lab3tasks\doorlock\doorlock\main.asm</FILE><LINE>108</LINE></WAIT_FOR_KEY>
+  <WAIT15MS><FILE>C:\Users\shaik\OneDrive\Desktop\mpi labs\lab3tasks\doorlock\doorlock\main.asm</FILE><LINE>369</LINE></WAIT15MS>
+  <ROW_0_FOUND><FILE>C:\Users\shaik\OneDrive\Desktop\mpi labs\lab3tasks\doorlock\doorlock\main.asm</FILE><LINE>161</LINE></ROW_0_FOUND>
+  <ROW_1_FOUND><FILE>C:\Users\shaik\OneDrive\Desktop\mpi labs\lab3tasks\doorlock\doorlock\main.asm</FILE><LINE>165</LINE></ROW_1_FOUND>
+  <ROW_2_FOUND><FILE>C:\Users\shaik\OneDrive\Desktop\mpi labs\lab3tasks\doorlock\doorlock\main.asm</FILE><LINE>169</LINE></ROW_2_FOUND>
+  <ROW_3_FOUND><FILE>C:\Users\shaik\OneDrive\Desktop\mpi labs\lab3tasks\doorlock\doorlock\main.asm</FILE><LINE>173</LINE></ROW_3_FOUND>
+  <KCODE0><FILE>C:\Users\shaik\OneDrive\Desktop\mpi labs\lab3tasks\doorlock\doorlock\main.asm</FILE><LINE>383</LINE></KCODE0>
+  <FIND_PREP><FILE>C:\Users\shaik\OneDrive\Desktop\mpi labs\lab3tasks\doorlock\doorlock\main.asm</FILE><LINE>179</LINE></FIND_PREP>
+  <KCODE1><FILE>C:\Users\shaik\OneDrive\Desktop\mpi labs\lab3tasks\doorlock\doorlock\main.asm</FILE><LINE>384</LINE></KCODE1>
+  <KCODE2><FILE>C:\Users\shaik\OneDrive\Desktop\mpi labs\lab3tasks\doorlock\doorlock\main.asm</FILE><LINE>385</LINE></KCODE2>
+  <KCODE3><FILE>C:\Users\shaik\OneDrive\Desktop\mpi labs\lab3tasks\doorlock\doorlock\main.asm</FILE><LINE>386</LINE></KCODE3>
+  <FIND><FILE>C:\Users\shaik\OneDrive\Desktop\mpi labs\lab3tasks\doorlock\doorlock\main.asm</FILE><LINE>181</LINE></FIND>
+  <MATCH><FILE>C:\Users\shaik\OneDrive\Desktop\mpi labs\lab3tasks\doorlock\doorlock\main.asm</FILE><LINE>190</LINE></MATCH>
+  <DATAWRT><FILE>C:\Users\shaik\OneDrive\Desktop\mpi labs\lab3tasks\doorlock\doorlock\main.asm</FILE><LINE>304</LINE></DATAWRT>
+  <CHECK_PASS><FILE>C:\Users\shaik\OneDrive\Desktop\mpi labs\lab3tasks\doorlock\doorlock\main.asm</FILE><LINE>210</LINE></CHECK_PASS>
+  <WRONG_CODE><FILE>C:\Users\shaik\OneDrive\Desktop\mpi labs\lab3tasks\doorlock\doorlock\main.asm</FILE><LINE>240</LINE></WRONG_CODE>
+  <OPEN_DOOR><FILE>C:\Users\shaik\OneDrive\Desktop\mpi labs\lab3tasks\doorlock\doorlock\main.asm</FILE><LINE>252</LINE></OPEN_DOOR>
+  <MSG_WRONG><FILE>C:\Users\shaik\OneDrive\Desktop\mpi labs\lab3tasks\doorlock\doorlock\main.asm</FILE><LINE>390</LINE></MSG_WRONG>
+  <DELAY_LONG><FILE>C:\Users\shaik\OneDrive\Desktop\mpi labs\lab3tasks\doorlock\doorlock\main.asm</FILE><LINE>359</LINE></DELAY_LONG>
+  <MSG_CORRECT><FILE>C:\Users\shaik\OneDrive\Desktop\mpi labs\lab3tasks\doorlock\doorlock\main.asm</FILE><LINE>391</LINE></MSG_CORRECT>
+  <MSG_OPENING><FILE>C:\Users\shaik\OneDrive\Desktop\mpi labs\lab3tasks\doorlock\doorlock\main.asm</FILE><LINE>392</LINE></MSG_OPENING>
+  <SERVO_LOOP><FILE>C:\Users\shaik\OneDrive\Desktop\mpi labs\lab3tasks\doorlock\doorlock\main.asm</FILE><LINE>271</LINE></SERVO_LOOP>
+  <DELAY_18ms><FILE>C:\Users\shaik\OneDrive\Desktop\mpi labs\lab3tasks\doorlock\doorlock\main.asm</FILE><LINE>349</LINE></DELAY_18ms>
+  <MSG_UNLOCKED><FILE>C:\Users\shaik\OneDrive\Desktop\mpi labs\lab3tasks\doorlock\doorlock\main.asm</FILE><LINE>393</LINE></MSG_UNLOCKED>
+  <STOP><FILE>C:\Users\shaik\OneDrive\Desktop\mpi labs\lab3tasks\doorlock\doorlock\main.asm</FILE><LINE>289</LINE></STOP>
+  <SDELAY><FILE>C:\Users\shaik\OneDrive\Desktop\mpi labs\lab3tasks\doorlock\doorlock\main.asm</FILE><LINE>324</LINE></SDELAY>
+  <DELAY_100us><FILE>C:\Users\shaik\OneDrive\Desktop\mpi labs\lab3tasks\doorlock\doorlock\main.asm</FILE><LINE>329</LINE></DELAY_100us>
+  <STR_END><FILE>C:\Users\shaik\OneDrive\Desktop\mpi labs\lab3tasks\doorlock\doorlock\main.asm</FILE><LINE>321</LINE></STR_END>
+  <DR0><FILE>C:\Users\shaik\OneDrive\Desktop\mpi labs\lab3tasks\doorlock\doorlock\main.asm</FILE><LINE>332</LINE></DR0>
+  <LDR0><FILE>C:\Users\shaik\OneDrive\Desktop\mpi labs\lab3tasks\doorlock\doorlock\main.asm</FILE><LINE>342</LINE></LDR0>
+  <D18_LOOP><FILE>C:\Users\shaik\OneDrive\Desktop\mpi labs\lab3tasks\doorlock\doorlock\main.asm</FILE><LINE>352</LINE></D18_LOOP>
+  <DL_LOOP><FILE>C:\Users\shaik\OneDrive\Desktop\mpi labs\lab3tasks\doorlock\doorlock\main.asm</FILE><LINE>362</LINE></DL_LOOP>
+  <W_LOOP><FILE>C:\Users\shaik\OneDrive\Desktop\mpi labs\lab3tasks\doorlock\doorlock\main.asm</FILE><LINE>372</LINE></W_LOOP>
+ </LABELS>
+</ASSEMBLER_INFO>
